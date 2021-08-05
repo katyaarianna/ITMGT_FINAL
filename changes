@@ -1,0 +1,9 @@
+# Changes to make
+
+# calculate herd immunity
+    # based on total population
+    # https://worldpopulationreview.com/countries/philippines-population
+# formulate message
+    # add date of when it was last updated
+# change bop command
+# display percentage of daily vaccinations (use date [-2])
